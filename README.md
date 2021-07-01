@@ -3,7 +3,7 @@
 
 ## About Me
 
-[![](https://img.shields.io/badge/Website-alighasemi-red)](https://amirhallaji.com)
+<!-- [![](https://img.shields.io/badge/Website-alighasemi-red)](https://amirhallaji.com) -->
 
 * Computer Engineering Student @ [Sharif University of Technology][sharifLink]
 * Head of the **React Front-End** team @ [Marketmap][marketMapLink] over 1 year
