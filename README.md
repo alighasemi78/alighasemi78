@@ -1,9 +1,6 @@
 
 # Ali Ghasemi🕶️
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=hesanghasemi&theme=blue-green&show_icons=true)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hesanghasemi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ## About Me
 
 [![](https://img.shields.io/badge/Website-alighasemi-red)](https://hesanghasemi.github.io/cv_website/)
@@ -70,6 +67,11 @@
 ## Contact Me
 
 [![](https://img.shields.io/badge/Email-hesanghasemi99@gmail.com-orange)](mailto:hesanghasemi99@gmail.com)  [![](https://img.shields.io/badge/Telegram-Ali_Ghasemi-blue)](https://t.me/Hesan_G)
+
+## Stats
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=hesanghasemi&theme=blue-green&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hesanghasemi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [sharifLink]: http://www.sharif.ir/home
 [marketMapLink]: https://marketmap.org/fa
