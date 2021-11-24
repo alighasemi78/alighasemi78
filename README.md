@@ -10,7 +10,7 @@
 * Familiar with the concepts of **AI** and **ML**
 * Familiar with **Python** and had a couple of academic projects
 * **Advanced** English certificate from **British Council**
-* Getting ready for **Toefl**
+* **Toefl** score of **111**
 
 ## Job Experiences
 
