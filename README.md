@@ -23,14 +23,18 @@
 ## Education
 
 - 2018-2022
+
   - **B<span>.</span>Sc. in Computer Engineering**, Sharif University of Technology, Tehran.
+
     The Sharif University of Technology is a public research university in Tehran, Iran.
     It is widely considered as the nation’s leading institution for science, technology, engineering, and mathematics fields.
 
 ## Computer Engineering Project
 
 Title: Paraphrasing Farsi Sentences Using BERT
+
 Supervisor: [Dr. Hamid Beigy][beigy]
+
 Description: This project is designed to generate sentences that are the same as the input sentence but have a different structure. The importance of this project is seen when students or researchers want to avoid plagiarism when writing an article. It is designed for Farsi sentences so the Iranian students can use it for their Farsi articles.
 
 ## Research Interests
@@ -43,23 +47,35 @@ Description: This project is designed to generate sentences that are the same as
 ## Experience
 
 - Vocational
+
   - 2020-Present
+
     - **Head of the Front-End Team**, [Marketmap][marketmaplink], Tehran.
+
       An E-commerce startup, providing complete comparisons, algorithms for suggesting products, and more. Additionally, working on creating efficient algorithms for predicting cryptocurrency markets
+
   * 2020-2020
+
     - **Front-End Developer**, [Safarbazi][safarbazilink], Tehran.
+
       A startup, focusing on tourism and connecting house owners and travelers.
 
 * Miscellaneous
+
   - 2018-2019
+
     - **Teacher**, Salam Tajrish Highschool, Tehran.
+
       Helping students get ready for the national university entrance exam.
 
 ## Skills
 
 - Python
+
   - **Upper Intermediate**
+
     Pandas, Numpy, Matplotlib, Seaborn, Tensorflow, Keras
+
 - Javascript
   - **Advanced**
 - HTML
@@ -67,8 +83,11 @@ Description: This project is designed to generate sentences that are the same as
 - CSS
   - **Advanced**
 - React
+
   - **Advanced**
+
     Antd, MaterialUI, Chart.js, Moment.js, OpenStreetMap
+
 - Next.js
   - **Upper Intermediate**
 - Problem Solving
