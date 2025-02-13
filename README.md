@@ -1,122 +1,84 @@
-# Ali Ghasemi🕶️
+# **Ali Ghasemi**
+🔬 *MS Student in Artificial Intelligence & Robotics @ Sapienza University of Rome*
+[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-8A2BE2?style=flat)](https://alighasemi78.github.io/)
+[![Email](https://img.shields.io/badge/📧-Contact%20Me-red?style=flat)](mailto:hesanghasemi99@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/alighasemi13781999)
 
-## About Me
+👋 **Research-Driven AI Engineer** specializing in generative models, geometric deep learning, and robust NLP systems. Passionate about bridging theoretical rigor with real-world applications in computer vision and autonomous systems.
 
-[![](https://img.shields.io/badge/Website-alighasemi-red)](https://alighasemi78.github.io/Portfolio-Website/)
+---
 
-- Student of Computer Engineering (Expected Graduation Date: December 2022)
-- 22 Years Old
-- Email: [hesanghasemi99@gmail.com][myemail]
-- Skype: [https://join.skype.com/invite/DzgVodgiRYUs][myskype]
-- LinkedIn: [https://www.linkedin.com/in/alighasemi13781999][mylinkedin]
-- GitHub: [https://github.com/alighasemi78][mygithub]
-- Website: [https://alighasemi78.github.io/Portfolio-Website][mywebsite]
+## **⚡ Core Expertise**
+**Languages & Frameworks:**
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B)
 
-## Languages
+**Research Domains:**
+![Generative AI](https://img.shields.io/badge/🧠-Generative_AI-FF6F61)
+![Computer Vision](https://img.shields.io/badge/👁️-Computer_Vision-4B9CD3)
+![OOD Generalization](https://img.shields.io/badge/📊-OOD_Generalization-6D48E5)
 
-- English
-  - Advanced
-    - TOEFL Score: 111/120
-- Farsi
-  - Native
+**Tools & Libraries:**
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
 
-## Education
+---
 
-- 2018-2022
+## **🚀 Featured Projects**
 
-  - **B<span>.</span>Sc. in Computer Engineering**, Sharif University of Technology, Tehran.
+<!--### **🔗 [Facial Animation Retargeting](https://github.com/your-repo)**-->
+### **🔗 Facial Animation Retargeting**
+*Modular pipeline combining unsupervised expression transfer with 3D blendshape prediction.*
+`PyTorch` `3D Parametric Models` `AR/VR Applications`
 
-    The Sharif University of Technology is a public research university in Tehran, Iran.
-    It is widely considered as the nation’s leading institution for science, technology, engineering, and mathematics fields.
+### **🎨 [DiffiT: Diffusion Vision Transformers](https://github.com/alighasemi78/DiffiT-Diffusion-Vision-Transformers-for-Image-Generation)**
+*State-of-the-art image generation (FID 1.73 on ImageNet256) via Time-dependent Multibead Self-Attention.*
+`Transformers` `Latent Diffusion` `Parameter Efficiency`
 
-## Computer Engineering Project
+### **🛡️ [Adversarial NLI Framework](https://github.com/alighasemi78/Adversarial-Natural-Language-Inference)**
+*Robust natural language inference using semantic role labeling & WSD.*
+`NLP` `Adversarial Robustness` `Data Augmentation`
 
-Title: Paraphrasing Farsi Sentences Using BERT
+---
 
-Supervisor: [Dr. Hamid Beigy][beigy]
+## **📚 Academic Highlights**
+- **Thesis:** *Graph OOD Generalization* under Prof. Fabrizio Silvestri *(GPA: 29.2/30)*
+- **Publication:** First author of *"Enhancing ground-to-aerial image matching for visual misinformation detection using semantic segmentation"* (2025)
+- **Research Interests:** Generative Models • Vision-Language Integration • Geometric Deep Learning
 
-Description: This project is designed to generate sentences that are the same as the input sentence but have a different structure. The importance of this project is seen when students or researchers want to avoid plagiarism when writing an article. It is designed for Farsi sentences so the Iranian students can use it for their Farsi articles.
+---
 
-## Research Interests
+## **💼 Professional Experience**
+**Front-End Team Lead @ Marketmap** *(2018-2022)*
+- Architected product comparison platform with React-based filtering/search systems
+- Mentored junior developers in Agile workflows (CI/CD integration)
 
-- Artificial Intelligence
-- Natural Language Processing
-- Image Processing
-- Rehabilitation
+**Front-End Developer @ Safarbazi** *(2020)*
+- Implemented user registration flows and UI/UX optimizations
 
-## Experience
+---
 
-- Vocational
+## **📊 GitHub Activity**
+![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alighasemi78&show_icons=true&theme=radical&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alighasemi78&layout=compact&exclude_repo=DL_Project1,CV_Assignment3)
 
-  - 2020-Present
+---
 
-    - **Head of the Front-End Team**, [Marketmap][marketmaplink], Tehran.
+## **🌍 Let's Connect**
+- **Research Collaboration:** [Email](mailto:hesanghasemi99@gmail.com)
+- **Academic Profile:** [Sapienza University](https://www.uniroma1.it/)
+- **Code Philosophy:** *"Bridging geometric intuition with deep learning scalability"*
 
-      An E-commerce startup, providing complete comparisons, algorithms for suggesting products, and more. Additionally, working on creating efficient algorithms for predicting cryptocurrency markets
+---
 
-  * 2020-2020
+**🎯 Currently Exploring:**
+- Equivariant architectures for 3D vascular geometry classification
+- Curiosity-driven RL with self-supervised prediction
 
-    - **Front-End Developer**, [Safarbazi][safarbazilink], Tehran.
+![Visitor Count](https://profile-counter.glitch.me/alighasemi78/count.svg)
 
-      A startup, focusing on tourism and connecting house owners and travelers.
+---
 
-* Miscellaneous
-
-  - 2018-2019
-
-    - **Teacher**, Salam Tajrish Highschool, Tehran.
-
-      Helping students get ready for the national university entrance exam.
-
-## Skills
-
-- Python
-
-  - **Upper Intermediate**
-
-    Pandas, Numpy, Matplotlib, Seaborn, Tensorflow, Keras
-
-- Javascript
-  - **Advanced**
-- HTML
-  - **Advanced**
-- CSS
-  - **Advanced**
-- React
-
-  - **Advanced**
-
-    Antd, MaterialUI, Chart.js, Moment.js, OpenStreetMap
-
-- Next.js
-  - **Upper Intermediate**
-- Problem Solving
-  - **Upper Intermediate**
-- Project Management
-  - **Upper Intermediate**
-- Diligence
-  - **Advanced**
-
-## Activities and Interests
-
-- Completed 44.5-hour course on ”Machine Learning” on Udemy
-- Completed 22.5-hour course on ”Deep Learning” on Udemy
-- Attended a workshop called ”AI Challenge” (2019) held at the university
-- Completed 42-hour course on ”React” on Udemy
-- Volunteering experience
-- Playing Football, Volleyball
-
-## Stats
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=alighasemi78&theme=blue-green&show_icons=true)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alighasemi78&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[myemail]: mailto:hesanghasemi99@gmail.com
-[myskype]: https://join.skype.com/invite/DzgVodgiRYUs
-[mylinkedin]: https://www.linkedin.com/in/alighasemi13781999
-[mygithub]: https://github.com/alighasemi78
-[mywebsite]: https://alighasemi78.github.io/Portfolio-Website
-[beigy]: http://sharif.edu/~beigy/
-[marketmaplink]: https://marketmap.org/fa
-[safarbazilink]: https://www.safarbazi.com/
-[mftlink]: https://www.mftplus.com/
+*Inspired by computational elegance. Driven by research impact.*
