@@ -28,8 +28,7 @@
 
 ## **🚀 Featured Projects**
 
-<!--### **🔗 [Facial Animation Retargeting](https://github.com/your-repo)**-->
-### **🔗 Facial Animation Retargeting**
+### **🔗 [Facial Animation Retargeting](https://github.com/alighasemi78/Facial-Animation-Retargeting)**
 *Modular pipeline combining unsupervised expression transfer with 3D blendshape prediction.*
 `PyTorch` `3D Parametric Models` `AR/VR Applications`
 
